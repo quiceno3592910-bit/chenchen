@@ -4,6 +4,8 @@
 # heihei
 # heihei
 # henhao
+kanjiji
+
 # henhao
 # henhao
 # henhao
