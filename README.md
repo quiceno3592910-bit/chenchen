@@ -8,6 +8,7 @@ kanjiji
 kanjiji
 kanjiji
 zheghe
+zheghe
 
 # henhao
 # henhao
